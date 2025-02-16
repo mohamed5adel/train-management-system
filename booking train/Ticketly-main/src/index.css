@@ -1,0 +1,11 @@
+
+@import "tailwindcss";
+
+@theme {  --color-one: #C1E6BA; 
+     --color-two:#EAF8E7 ;
+      --color-three:#023336 ;
+      --color-four:#4DA674}
+      //three for bg 
+      //one for  title
+      //four for nav bg
+      //
